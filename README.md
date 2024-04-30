@@ -1,0 +1,1 @@
+# duino-coin-mini-avr-miner
